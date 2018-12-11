@@ -1,0 +1,11 @@
+C:\Users\Nauma\Desktop\coding_dojo\csharp_stack\LoginReg\bin\Debug\netcoreapp2.0\LoginReg.deps.json
+C:\Users\Nauma\Desktop\coding_dojo\csharp_stack\LoginReg\bin\Debug\netcoreapp2.0\LoginReg.runtimeconfig.json
+C:\Users\Nauma\Desktop\coding_dojo\csharp_stack\LoginReg\bin\Debug\netcoreapp2.0\LoginReg.runtimeconfig.dev.json
+C:\Users\Nauma\Desktop\coding_dojo\csharp_stack\LoginReg\bin\Debug\netcoreapp2.0\LoginReg.dll
+C:\Users\Nauma\Desktop\coding_dojo\csharp_stack\LoginReg\bin\Debug\netcoreapp2.0\LoginReg.pdb
+C:\Users\Nauma\Desktop\coding_dojo\csharp_stack\LoginReg\obj\Debug\netcoreapp2.0\LoginReg.csprojResolveAssemblyReference.cache
+C:\Users\Nauma\Desktop\coding_dojo\csharp_stack\LoginReg\obj\Debug\netcoreapp2.0\LoginReg.csproj.CoreCompileInputs.cache
+C:\Users\Nauma\Desktop\coding_dojo\csharp_stack\LoginReg\obj\Debug\netcoreapp2.0\LoginReg.AssemblyInfoInputs.cache
+C:\Users\Nauma\Desktop\coding_dojo\csharp_stack\LoginReg\obj\Debug\netcoreapp2.0\LoginReg.AssemblyInfo.cs
+C:\Users\Nauma\Desktop\coding_dojo\csharp_stack\LoginReg\obj\Debug\netcoreapp2.0\LoginReg.dll
+C:\Users\Nauma\Desktop\coding_dojo\csharp_stack\LoginReg\obj\Debug\netcoreapp2.0\LoginReg.pdb
